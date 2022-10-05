@@ -2,8 +2,9 @@ body {
   margin: 10px;
 }
 
-div {
-  margin:
+.AD {
+  background:#4826;
+  height: 90px;
 }
 
 h1 {
@@ -14,7 +15,7 @@ h1 {
 .footer{
 }
 .footer_top{
-background:#25860;
+background:#680000;
 padding-bottom:350px;
 }
 .footer_top .photo_gallery{
@@ -30,3 +31,4 @@ color:#fff;
 float:left;
 margin-right:12px;
 margin-bottom:10px;
+}
